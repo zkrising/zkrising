@@ -2,7 +2,7 @@
 
 I code in my free time to try and make cool things.
 
-I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year.
+I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year (Rust).
 
 Database wise, I prefer to use MongoDB and Redis.
 
