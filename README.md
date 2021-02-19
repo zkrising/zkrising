@@ -4,8 +4,6 @@ I code in my free time to try and make cool things.
 
 I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year (Rust).
 
-Database wise, I prefer to use MongoDB and Redis.
-
 For my editor, I use a heavily themed build of ![VSCode](https://github.com/microsoft/vscode).
 
 # Live Projects
