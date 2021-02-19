@@ -36,12 +36,17 @@ A discord bot which integrates with the Kamaitachi API. This is only currently u
 
 In the future I might release this application's skeleton as a discord bot framework.
 
-## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![JSNVL](https://github.com/zkldi/jsnvl)
-`jsnvl`
+## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Prudence](https://github.com/zkldi/Prudence)
+`prudn`
 
 A simple NPM package for validating objects against simple schemas. This was mostly designed for personal use, and was designed out of a dislike for existing solutions.
 
 It primarily leverages first-order functions to get anything complicated done.
+
+## ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png) ![Prudence Documentation](https://github.com/zkldi/prudence-docs)
+`prudd`
+
+The full documentation for Prudence.
 
 ## ![Javascript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) ![ESD-JS](https://github.com/zkldi/esd-js)
 `esdjs`
