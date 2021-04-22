@@ -20,7 +20,7 @@ It is currently hosted live at https://kamaitachi.xyz, and powers just over half
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Kamaitachi-api](https://github.com/zkldi/kamaitachi-api)
 `ktapi`
 
-The public API behind Kamaitachi. All of Kamaitachi's webui is powered by this, and it's currently in the progress of being migrated to TypeScript.
+The public API behind Kamaitachi. All of Kamaitachi's webui is powered by this.
 
 ## ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png) ![Kamaitachi API Documentation](https://github.com/zkldi/ktapi-documentation)
 `ktapd`
