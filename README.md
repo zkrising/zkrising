@@ -17,16 +17,6 @@ A rhythm game score tracker. Designed with complete modularity in mind, it works
 
 It is currently hosted live at https://kamaitachi.xyz, and powers just over half a million rhythm game scores.
 
-## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Kamaitachi-api](https://github.com/zkldi/kamaitachi-api)
-`ktapi`
-
-The public API behind Kamaitachi. All of Kamaitachi's webui is powered by this.
-
-## ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png) ![Kamaitachi API Documentation](https://github.com/zkldi/ktapi-documentation)
-`ktapd`
-
-The full documentation for the Kamaitachi API.
-
 ## ![JavaScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) ![MetallicMind](https://github.com/zkldi/MetallicMind)
 `mmind`
 
