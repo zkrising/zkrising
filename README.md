@@ -15,7 +15,7 @@ This is a list of projects that are currently released.
 
 A rhythm game score tracker. Designed with complete modularity in mind, it works near out-of-the-box for all games.
 
-It is currently hosted live at https://kamaitachi.xyz, and powers just over half a million rhythm game scores.
+It is currently being rewrote, and powers just under a million rhythm game scores.
 
 ## ![JavaScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) ![MetallicMind](https://github.com/zkldi/MetallicMind)
 `mmind`
