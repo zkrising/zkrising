@@ -1,4 +1,4 @@
-# Hi, I'm zkldi.
+# Hello, I'm zkldi.
 
 I code in my free time to try and make cool things.
 
