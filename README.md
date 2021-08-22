@@ -2,20 +2,18 @@
 
 I code in my free time to try and make cool things.
 
-I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year (Rust).
-
-For my editor, I use a heavily themed build of ![VSCode](https://github.com/microsoft/vscode).
+I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year (Rust, Go seems cool too...).
 
 # Live Projects
 
 This is a list of projects that are currently released.
 
-## ![JavaScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) [Kamaitachi](https://kamaitachi.xyz)
-`ktchi`
+## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) Tachi
+`tachi` `ktchi` `btchi` `tchis` `tchic` `tchid` `tcdbi`
 
-A rhythm game score tracker. Designed with complete modularity in mind, it works near out-of-the-box for all games.
+A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
 
-It is currently being rewrote, and powers just under a million rhythm game scores.
+Unlike other repositories on this list, Tachi is composed of many repositories, including the [Backend Server](https://github.com/zkldi/tachi-server), [Common Types](https://github.com/zkldi/tachi-common) and [Thorough Documentation](https://github.com/zkldi/tachi-docs).
 
 ## ![JavaScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) ![MetallicMind](https://github.com/zkldi/MetallicMind)
 `mmind`
@@ -35,11 +33,6 @@ It primarily leverages first-order functions to get anything complicated done.
 `prudd`
 
 The full documentation for Prudence.
-
-## ![Javascript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) ![ESD-JS](https://github.com/zkldi/esd-js)
-`esdjs`
-
-A simple NPM package for calculating ESD and ESDC. This is a statistic used mainly in Kamaitachi, and (ab)uses central limit theorem to estimate the standard deviation of hits from a score.
 
 # Live, Collaborative Projects
 
@@ -63,4 +56,10 @@ What these projects do is kept a surprise!
 ## ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png) RGC Specification
 
 *****
-![commits](https://github-readme-stats.vercel.app/api?username=zkldi&theme=tokyonight&show_icons=true&count_private=true) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkldi&theme=tokyonight&show_icons=true)]
+
+## Other Stuff
+
+- Editor: Heavily Modified [VSCode](https://github.com/microsoft/vscode)
+- Dev OS: Hybrid Windows/Ubuntu with WSL2. (If I was driving linux only, I'd be using Mint)
+- JS UI Framework: React
+- Favourite Videogame: You already know it's Mario Galaxy.
