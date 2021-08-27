@@ -60,6 +60,6 @@ What these projects do is kept a surprise!
 ## Other Stuff
 
 - Editor: Heavily Modified [VSCode](https://github.com/microsoft/vscode)
-- Dev OS: Hybrid Windows/Ubuntu with WSL2. (If I was driving linux only, I'd be using Mint)
+- Dev OS: Manjaro KDE.
 - JS UI Framework: React
 - Favourite Videogame: You already know it's Mario Galaxy.
