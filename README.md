@@ -15,13 +15,6 @@ A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the 
 
 Unlike other repositories on this list, Tachi is composed of many repositories, including the [Backend Server](https://github.com/zkldi/tachi-server), [Common Types](https://github.com/zkldi/tachi-common) and [Thorough Documentation](https://github.com/zkldi/tachi-docs).
 
-## ![JavaScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript_32x32.png) ![MetallicMind](https://github.com/zkldi/MetallicMind)
-`mmind`
-
-A discord bot which integrates with the Kamaitachi API. This is only currently used inside the Kamaitachi discord.
-
-In the future I might release this application's skeleton as a discord bot framework.
-
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Prudence](https://github.com/zkldi/Prudence)
 `prudn`
 
@@ -62,4 +55,3 @@ What these projects do is kept a surprise!
 - Editor: Heavily Modified [VSCode](https://github.com/microsoft/vscode)
 - Dev OS: Manjaro KDE.
 - JS UI Framework: React
-- Favourite Videogame: You already know it's Mario Galaxy.
