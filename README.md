@@ -9,7 +9,7 @@ I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on lea
 This is a list of projects that are currently released.
 
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) Tachi
-`tachi` `ktchi` `btchi` `tchis` `tchic` `tchid` `tcdbi`
+`tachi`
 
 A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
 
