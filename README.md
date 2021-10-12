@@ -54,6 +54,5 @@ What these projects do is kept a surprise!
 
 - Editor: Heavily Modified [VSCode](https://github.com/microsoft/vscode)
 - Dev OS: Manjaro KDE.
-- JS UI Framework: React
 
 If you like my work, you can support me on [Patreon](https://patreon.com/zkldi) (Recurring subscription) or [Ko-Fi](https://ko-fi.com/zkldi) (One Time Payment). It goes a long way, and means a lot.
