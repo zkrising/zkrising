@@ -13,12 +13,12 @@ I am interested in work opportunities. Contact me at `zkldi.dev` (at) `gmail` . 
 
 This is a list of projects that are currently released.
 
-## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) Tachi
+## <img src=https://cdn.svgporn.com/logos/typescript-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/svelte-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/java.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/redis.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/esbuild.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/react.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/mongodb.svg width=64 height=32 /> Tachi
 `tachi`
 
 A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
 
-Unlike other repositories on this list, Tachi is composed of many repositories, including the [Backend Server](https://github.com/zkldi/tachi-server), [Common Types](https://github.com/zkldi/tachi-common) and [Thorough Documentation](https://github.com/zkldi/tachi-docs).
+Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list), including the [Backend Server](https://github.com/zkldi/tachi-server), [Common Types](https://github.com/zkldi/tachi-common) and [Thorough Documentation](https://github.com/zkldi/tachi-docs).
 
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Prudence](https://github.com/zkldi/Prudence)
 `prudn`
