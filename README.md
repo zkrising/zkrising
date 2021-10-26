@@ -4,6 +4,9 @@ I code in my free time to try and make cool things.
 
 I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year (Rust, Go seems cool too...).
 
+![](https://github.com/zkldi/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+
 # Live Projects
 
 This is a list of projects that are currently released.
