@@ -2,7 +2,9 @@
 
 I code in my free time to try and make cool things.
 
-I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on learning some other lower-level technologies this year (Rust, Go seems cool too...).
+I'm a fan of (and mainly use) TypeScript. I have some general knowledge of Go and Rust, but I'm not the best with them. I'm honestly looking for an excuse to use them on a project so I can get good with them.
+
+For frontend stuff, I'm a svelte and react enjoyer. Svelte is nice and meshes with my head well, but React is purer and generally more powerful. I use both, but not on the same project.
 
 ![](https://github.com/zkldi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zkldi/github-stats/blob/master/generated/languages.svg)
