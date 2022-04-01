@@ -7,7 +7,7 @@ I'm a fan of (and mainly use) TypeScript and Javascript, but I'm planning on lea
 ![](https://github.com/zkldi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zkldi/github-stats/blob/master/generated/languages.svg)
 
-I am interested in work opportunities. Contact me at `zkldi.dev` (at) `gmail` . com
+# I am interested in work opportunities. Contact me at `atob("emtsZGkuZGV2QGdtYWlsLmNvbQ==")`.
 
 # Live Projects
 
