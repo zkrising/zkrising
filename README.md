@@ -45,16 +45,6 @@ A formal specification for ![unnamed_sdvx_clone](https://github.com/Drewol/unnam
 
 Built in collaboration with ![ereti](https://github.com/ereti) and ![Drewol](https://github.com/Drewol).
 
-# Upcoming Projects
-
-This is a list of projects that are currently in development. The names for these projects are often up in the air and could be changed at any time.
-
-What these projects do is kept a surprise!
-
-## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) Backbeat
-
-## ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png) RGC Specification
-
 *****
 
 ## Other Stuff
