@@ -20,7 +20,7 @@ This is a list of projects that are currently released.
 
 A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
 
-Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list), including the [Backend Server](https://github.com/zkldi/tachi-server), [Common Types](https://github.com/zkldi/tachi-common) and [Thorough Documentation](https://github.com/zkldi/tachi-docs).
+Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list), including the [Backend Server](https://github.com/tng-dev/tachi-server), [Common Types](https://github.com/zkldi/tachi-common), [Database Seeds](https://github.com/tng-dev/tachi-database-seeds), [Beatoraja IR](https://github.com/tng-dev/tachi-beatoraja-ir), [Discord Bot](https://github.com/tng-dev/tachi-bot), [RG Stats](https://github.com/tng-dev/rg-stats), [Import Scripts](https://github.com/tng-dev/tachi-import-scripts) and [Thorough Documentation](https://github.com/tng-dev/tachi-docs).
 
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Prudence](https://github.com/zkldi/Prudence)
 `prudn`
@@ -50,6 +50,5 @@ Built in collaboration with ![ereti](https://github.com/ereti) and ![Drewol](htt
 ## Other Stuff
 
 - Editor: Heavily Modified [VSCode](https://github.com/microsoft/vscode)
-- Dev OS: Manjaro KDE.
 
 If you like my work, you can support me on [Ko-Fi](https://ko-fi.com/zkldi). It goes a long way, and means a lot.
