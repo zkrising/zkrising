@@ -9,8 +9,6 @@ For frontend stuff, I'm a svelte and react enjoyer. Svelte is nice and meshes wi
 ![](https://github.com/zkldi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zkldi/github-stats/blob/master/generated/languages.svg)
 
-# I am interested in work opportunities. Contact me at `atob("emtsZGkuZGV2QGdtYWlsLmNvbQ==")`.
-
 # Live Projects
 
 This is a list of projects that are currently released.
