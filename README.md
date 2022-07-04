@@ -20,6 +20,11 @@ A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the 
 
 Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list), including the [Backend Server](https://github.com/tng-dev/tachi-server), [Common Types](https://github.com/zkldi/tachi-common), [Database Seeds](https://github.com/tng-dev/tachi-database-seeds), [Beatoraja IR](https://github.com/tng-dev/tachi-beatoraja-ir), [Discord Bot](https://github.com/tng-dev/tachi-bot), [RG Stats](https://github.com/tng-dev/rg-stats), [Import Scripts](https://github.com/tng-dev/tachi-import-scripts) and [Thorough Documentation](https://github.com/tng-dev/tachi-docs).
 
+## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Cadence](https://github.com/CadenceJS/Cadence)
+`cdnce`
+
+Cadence is a brutally strict ESLint config that results in clean, maintainable, less-buggy code.
+
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Prudence](https://github.com/zkldi/Prudence)
 `prudn`
 
