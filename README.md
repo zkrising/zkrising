@@ -18,7 +18,18 @@ This is a list of projects that are currently released.
 
 A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
 
-Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list), including the [Backend Server](https://github.com/tng-dev/tachi-server), [Common Types](https://github.com/zkldi/tachi-common), [Database Seeds](https://github.com/tng-dev/tachi-database-seeds), [Beatoraja IR](https://github.com/tng-dev/tachi-beatoraja-ir), [Discord Bot](https://github.com/tng-dev/tachi-bot), [RG Stats](https://github.com/tng-dev/rg-stats), [Import Scripts](https://github.com/tng-dev/tachi-import-scripts) and [Thorough Documentation](https://github.com/tng-dev/tachi-docs).
+Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list).
+The [Main Monorepo](https://github.com/tng-dev/Tachi) subsumes the:
+- Backend Server
+- Core Types and Utils
+- Database Seeds
+- Discord Bot
+- Thorough Documentation
+
+Other Tachi related packages are external:
+- [RG Stats](https://github.com/tng-dev/rg-stats)
+- [Import Scripts](https://github.com/tng-dev/tachi-import-scripts)
+- [Beatoraja IR](https://github.com/tng-dev/tachi-beatoraja-ir)
 
 ## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) ![Cadence](https://github.com/CadenceJS/Cadence)
 `cdnce`
