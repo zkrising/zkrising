@@ -1,6 +1,6 @@
 # Hello, I'm zkldi.
 
-I code in my free time to try and make cool things.
+I code professionally and in my free time to try and make cool things.
 
 I'm a fan of (and mainly use) TypeScript. I have some general knowledge of Go and Rust, but I'm not the best with them. I'm honestly looking for an excuse to use them on a project so I can get good with them.
 
@@ -21,6 +21,7 @@ A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the 
 Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list).
 The [Main Monorepo](https://github.com/tng-dev/Tachi) subsumes the:
 - Backend Server
+- React Frontend (https://bokutachi.xyz)
 - Core Types and Utils
 - Database Seeds
 - Discord Bot
@@ -63,6 +64,6 @@ Built in collaboration with ![ereti](https://github.com/ereti) and ![Drewol](htt
 
 ## Other Stuff
 
-- Editor: Heavily Modified [VSCode](https://github.com/microsoft/vscode)
+- Editor: [VSCode](https://github.com/microsoft/vscode) with far too many modifications, `vim` when I'm stuck in a terminal or lazy.
 
 If you like my work, you can support me on [Ko-Fi](https://ko-fi.com/zkldi). It goes a long way, and means a lot.
