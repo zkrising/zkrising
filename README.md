@@ -2,9 +2,7 @@
 
 I code professionally and in my free time to try and make cool things.
 
-I'm a fan of (and mainly use) TypeScript. I have some general knowledge of Go and Rust, but I'm not the best with them. ~~I'm honestly looking for an excuse to use them on a project so I can get good with them.~~
-
-**I'm toiling in secret on a rust project. It's coming along quite well.**
+I'm a fan of (and mainly use) TypeScript. Since late 2022, I've been writing a ridiculous amount of Rust for a secret project. It's coming along quite well. It's also an excellent language, and I love working with it.
 
 For frontend stuff, I'm a svelte and react enjoyer. Svelte is nice and meshes with my head well, but React is purer and generally more powerful. I use both, but not on the same project.
 
