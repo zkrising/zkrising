@@ -13,13 +13,12 @@ For frontend stuff, I'm a svelte and react enjoyer. Svelte is nice and meshes wi
 
 This is a list of projects that are currently released.
 
-## <img src=https://cdn.svgporn.com/logos/typescript-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/svelte-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/java.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/redis.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/esbuild.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/react.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/mongodb.svg width=64 height=32 /> Tachi
+## <img src=https://cdn.svgporn.com/logos/typescript-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/svelte-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/java.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/redis.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/esbuild.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/react.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/mongodb.svg width=64 height=32 /> [Tachi](https://github.com/tng-dev/Tachi)
 `tachi`
 
 A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
 
-Unlike other repositories on this list, Tachi is composed of many repositories (hence the massive technology list).
-The [Main Monorepo](https://github.com/tng-dev/Tachi) subsumes the:
+Tachi's monorepo contains the:
 - Backend Server
 - React Frontend (https://bokutachi.xyz)
 - Core Types and Utils
