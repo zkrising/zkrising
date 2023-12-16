@@ -1,10 +1,11 @@
 # Hello, I'm zkldi.
 
-I code professionally and in my free time to try and make cool things.
+I'm a 21 year old programmer and rhythm-game enthusiast from Manchester. I've used a hell of a lot of technology over the years, and I'm a bit of a cynical sod when it comes to tech.
 
-I'm a fan of (and mainly use) TypeScript. Since late 2022, I've been writing a ridiculous amount of Rust for a secret project. It's coming along quite well. It's also an excellent language, and I love working with it.
+Professionally, I work full-time with Python, TypeScript and dabble in some infrastructure stuff.
+In my free time, I use TypeScript (Svelte, preferably) but perhaps more interestingly I'm working on a secret project involving a rather large amount of Rust. I'll have more to talk about in the near future.
 
-For frontend stuff, I'm a svelte and react enjoyer. Svelte is nice and meshes with my head well, but React is purer and generally more powerful. I use both, but not on the same project.
+Outside of programming, I read quite a bit, listen to a lot of music and boulder (poorly).
 
 ![](https://github.com/zkldi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/zkldi/github-stats/blob/master/generated/languages.svg)
