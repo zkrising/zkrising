@@ -1,6 +1,6 @@
 # Hello, I'm zkldi.
 
-I'm a 21 year old programmer and rhythm-game enthusiast from Manchester.
+I'm a 22 year old programmer and rhythm-game enthusiast from Manchester.
 
 Professionally, I work full-time with Python, TypeScript and dabble in some infrastructure stuff.
 In my free time, I use TypeScript (Svelte, preferably) but perhaps more interestingly I'm working on a secret project involving a rather large amount of Rust. I'll have more to talk about in the near future.
