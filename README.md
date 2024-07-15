@@ -1,4 +1,4 @@
-# Hello, I'm zkldi.
+# Hello, I'm zk.
 
 I'm a 22 year old programmer and rhythm-game enthusiast from Manchester.
 
