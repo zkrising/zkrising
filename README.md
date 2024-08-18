@@ -47,8 +47,4 @@ The full documentation for Prudence.
 
 *****
 
-## Other Stuff
-
-- Editor: [VSCode](https://github.com/microsoft/vscode) with far too many modifications, `vim` when I'm stuck in a terminal or lazy.
-
-If you like my work, you can support me on [Ko-Fi](https://ko-fi.com/zkldi). It goes a long way, and means a lot.
+If you like my work, you can support me on [Ko-Fi](https://ko-fi.com/zkrising).
