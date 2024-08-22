@@ -1,49 +1,52 @@
-# Hello, I'm zk.
+# Q?
 
-I'm a 22 year old programmer and rhythm-game enthusiast from Manchester.
+I'm 22 and write code for a living. And for a hobby.
 
-Professionally, I work full-time with Python, TypeScript and dabble in some infrastructure stuff.
-In my free time, I use TypeScript (Svelte, preferably) but perhaps more interestingly I'm working on a secret project involving a rather large amount of Rust. I'll have more to talk about in the near future.
+More specifically, I guess it's correct to call me a "[rust](https://github.com/rust-lang/rust) programmer" at the moment, as that's what I'm primarily writing, but I have some pretty strong experience in Typescript.
 
-Outside of programming, I read quite a bit, listen to a lot of music and boulder (poorly).
+## Q?
 
-![](https://github.com/zkrising/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/zkrising/github-stats/blob/master/generated/languages.svg)
+Well, my main personal project at the moment is not public (East-Coast translation: "Stealth Mode").
+It's not exactly unlike what I've done before, but I've definitely matured a lot as an engineer since starting it.
+It's a year underway now, and will be a while before it's even worth showing to the world.
 
-# Live Projects
+I'm pulling something like 50 hour work weeks on this alongside working a real job; the exact kind of nonsense you want to get away with in your early 20s.
 
-This is a list of projects that are currently released.
+## Q?
 
-## <img src=https://cdn.svgporn.com/logos/typescript-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/svelte-icon.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/java.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/redis.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/esbuild.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/react.svg width=32 height=32 /> <img src=https://cdn.svgporn.com/logos/mongodb.svg width=64 height=32 /> [Tachi](https://github.com/zkrising/Tachi)
+Tachi is the largest thing I've got publically released and contains a good 3 or 4 years of work.
+While I wrote almost all of the code that powers the thing, at the moment I possess a sort of mangerial role over Tachi, spending more time reviewing PRs than writing any code myself.
+Designing it so that other people can contribute and help out with something they legitimately personally care about is a big pride point for me. I've met some excellent friends from it.
 
-A supercharged Rhythm Game Score Tracker with a powerful public API. Of all the projects on this list, this is the largest, and best showcases my ability and workflow.
+## Q?
 
-Tachi's monorepo contains the:
+It is a rhythm game score tracker. That means that when people get scores in a game, they get ingested by Tachi and turned into nice dashboards and tables and graphs that people share with their friends.
+Tachi boasts an impressive ratio of around 3000 users to 5 million scores. While it's not a lot of People, it's definitely popular within its niche.
+
+[Tachi's monorepo](https://github.com/zkrising/Tachi) contains the:
 - Backend Server
 - React Frontend (https://bokutachi.xyz)
 - Core Types and Utils
 - Database Seeds
 - Discord Bot
-- Thorough Documentation
+- Documentation
 
 Other Tachi related packages are external:
 - [RG Stats](https://github.com/zkrising/rg-stats)
 - [Import Scripts](https://github.com/zkrising/tachi-import-scripts)
 - [Beatoraja IR](https://github.com/zkrising/tachi-beatoraja-ir)
 
-## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) [Cadence](https://github.com/CadenceJS/Cadence)
+# Q?
 
-Cadence is a brutally strict ESLint config that results in clean, maintainable, less-buggy code.
+Outside of programming, I read and I exercise, mainly. I used to do a lot of bouldering but haven't bothered in a while. Not had the money or time.
 
-## ![TypeScript](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/typescript/typescript_32x32.png) [Prudence](https://github.com/zkrising/Prudence)
+## Q?
 
-A simple NPM package for validating objects against simple schemas. This was mostly designed for personal use, and was designed out of a dislike for existing solutions.
+I'm a big fan of Pynchon, Wallace, those sorts, like... obsessively idiosyncratic, digressive, clearly mental.
 
-It primarily leverages first-order functions to get anything complicated done.
+## Q?
 
-## ![Python](https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png) [Prudence Documentation](https://github.com/zkrising/prudence-docs)
-
-The full documentation for Prudence.
+Isn't it obvious?
 
 *****
 
