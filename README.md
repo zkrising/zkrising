@@ -15,12 +15,15 @@ I'm pulling something like 50 hour work weeks on this alongside working a real j
 ## Q?
 
 Tachi is the largest thing I've got publically released and contains a good 3 or 4 years of work.
+
 While I wrote almost all of the code that powers the thing, at the moment I possess a sort of mangerial role over Tachi, spending more time reviewing PRs than writing any code myself.
+
 Designing it so that other people can contribute and help out with something they legitimately personally care about is a big pride point for me. I've met some excellent friends from it.
 
 ## Q?
 
 It is a rhythm game score tracker. That means that when people get scores in a game, they get ingested by Tachi and turned into nice dashboards and tables and graphs that people share with their friends.
+
 Tachi boasts an impressive ratio of around 3000 users to 5 million scores. While it's not a lot of People, it's definitely popular within its niche.
 
 [Tachi's monorepo](https://github.com/zkrising/Tachi) contains the:
