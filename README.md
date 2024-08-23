@@ -6,7 +6,7 @@ More specifically, I guess it's correct to call me a "[rust](https://github.com/
 
 ## Q?
 
-Well, my main personal project at the moment is not public (East-Coast translation: "Stealth Mode").
+Well, my main personal project at the moment is not public (In East-Coast parlance: "Stealth Mode").
 It's not exactly unlike what I've done before, but I've definitely matured a lot as an engineer since starting it.
 It's a year underway now, and will be a while before it's even worth showing to the world.
 
@@ -16,7 +16,7 @@ I'm pulling something like 50 hour work weeks on this alongside working a real j
 
 [Tachi](https://github.com/zkrising/Tachi) is the largest thing I've got publically released and contains a good 3 or 4 years of work.
 
-While I wrote almost all of the code that powers the thing, at the moment I possess a sort of mangerial role over Tachi, spending more time reviewing PRs than writing any code myself.
+While I wrote almost all of the code that powers the thing, at the moment I possess a sort of managerial role over Tachi, spending more time reviewing PRs than writing any code myself.
 
 Designing it so that other people can contribute and help out with something they legitimately personally care about is a big pride point for me. I've met some excellent friends from it.
 
