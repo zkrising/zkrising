@@ -1,16 +1,14 @@
 # Q?
 
-I'm 22 and write code for a living. And for a hobby.
+I'm 23 and I read books.
 
 More specifically, I guess it's correct to call me a "[rust](https://github.com/rust-lang/rust) programmer" at the moment, as that's what I'm primarily writing, but I have some pretty strong experience in Typescript.
 
 ## Q?
 
-Well, my main personal project at the moment is not public (In East-Coast parlance: "Stealth Mode").
-It's not exactly unlike what I've done before, but I've definitely matured a lot as an engineer since starting it.
-It's a year underway now, and will be a while before it's even worth showing to the world.
+Well, my main personal project at the moment is a videogame. I started work on a videogame 2 years ago, and as is typical, it still isn't released.
 
-I'm pulling something like 50 hour work weeks on this alongside working a real job; the exact kind of nonsense you want to get away with in your early 20s.
+I'm pulling something like 40 hour work weeks on this alongside working a real job; the exact kind of nonsense you can only barely physically get away with in your early 20s.
 
 ## Q?
 
@@ -26,13 +24,20 @@ It is a rhythm game score tracker. That means that when people get scores in a g
 
 Tachi boasts an impressive ratio of around 3000 users to 5 million scores. While it's not a lot of People, it's definitely popular within its niche.
 
-# Q?
-
-Outside of programming, I read and I exercise, mainly. I used to do a lot of bouldering but haven't bothered in a while. Not had the money or time.
-
 ## Q?
 
-I'm a big fan of Pynchon, Wallace, those sorts, like... obsessively idiosyncratic, digressive, clearly mental.
+> "When you walk the walk, whether successful or not, you feel more indifferent and robust to people's opinion, freer, more real."
+
+> "The problem is that our ideas are sticky; once we produce a theory,
+> we are not likely to change our minds -- so those who delay
+> developing their theories are better off. When you develop your
+> opinions on the basis of weak evidence, you will have difficulty
+> interpreting subsequent information that contradicts these opinions,
+> even if this new information is obviously more accurate."
+
+> "We prefer that projects go badly by the book."
+
+> "Some genius invented the oreo. We're just living off the inheritance."
 
 ## Q?
 
